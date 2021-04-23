@@ -6,27 +6,28 @@ Introduction
 
 Install Viscomsoft AI Face Detection SDK ActiveX Installer from  http://www.viscomsoft.com/products/face-detection
 
-Highlights
-Support multiple face detection from BMP, JPEG, PNG, TIFF file.
+<b>Highlights</b>
 
-Count people by detecting faces in images , which can be applied to foot traffic or attendance statistics for retail establishments, airports and schools. 
+1. Support multiple face detection from BMP, JPEG, PNG, TIFF file.
 
-Support detect frontal face, profile face, frontal face tilted clock-wise and counter-clock-wise, left side and right side profile face. 
+2. Count people by detecting faces in images , which can be applied to foot traffic or attendance statistics for retail establishments, airports and schools. 
 
-Support use Equalize Histogram to enhance contrast when the face is not clear.
+3. Support detect frontal face, profile face, frontal face tilted clock-wise and counter-clock-wise, left side and right side profile face. 
 
-Support output JPEG, PNG file with rectangles drawn around faces found in image. 
+4. Support use Equalize Histogram to enhance contrast when the face is not clear.
 
-Support get the position of detected faces. 
+5. Support output JPEG, PNG file with rectangles drawn around faces found in image. 
 
-Support set how many neighbors each candidate rectangle should have to retain it.
+6. Support get the position of detected faces. 
 
-Support set minimum possible object size. Objects smaller than that are ignored.
+7. Support set how many neighbors each candidate rectangle should have to retain it.
 
-Support set maximum possible object size. Objects larger than that are ignored. 
+8. Support set minimum possible object size. Objects smaller than that are ignored.
 
-Include VB.Net 2019, VB.Net 2010, C# 2019, C# 2010, Visual Basic 6, Visual C , Visual Foxpro, Delphi Sample code. 
+9. Support set maximum possible object size. Objects larger than that are ignored. 
 
-Compatible with any programming language that supports ActiveX (Access, Visual C , Visual Basic , Visual Foxpro, Delphi, .Net, etc.) 
+10. Include VB.Net 2019, VB.Net 2010, C# 2019, C# 2010, Visual Basic 6, Visual C , Visual Foxpro, Delphi Sample code. 
 
-Royalty free distribution of the OCX file.
+11. Compatible with any programming language that supports ActiveX (Access, Visual C , Visual Basic , Visual Foxpro, Delphi, .Net, etc.) 
+
+12. Royalty free distribution of the OCX file.
